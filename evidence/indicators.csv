@@ -1,0 +1,5 @@
+indicator_type,value,context,assessment
+email,security-alert@micr0soft-support.com,sender,suspicious
+domain,micr0soft-support.com,primary target,typosquatting
+tactic,character substitution,0 instead of o,phishing indicator
+brand,Microsoft,impersonation target,high trust abuse
